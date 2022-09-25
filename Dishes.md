@@ -2,7 +2,7 @@
 
 ## Breakfasts
 1. Rice Paper Egg
-2.
+2. Protein French Toast
 
 ## Lunches
 1. Shredded Chicken Avocado Melt
