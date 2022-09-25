@@ -1,29 +1,30 @@
 # 25/09/2022
 
+1. Eggs
+2. Onion
+3. Broccoli
+4. Avocado
+5. Pesto
+6. Red Onion
+7. Tomato
+8. Chorizo
+9. Cherry Tomatoes
+10. Spinach
+11. Mozzarella Balls
+12. Garlic
+13. Parm
+14. Scallion
+15. Celery
+16. Bell Pepper
+17. Cajun Seasoning
+18. Cinnamon
+19. Bread
+
+## Online
 1. Rice Paper
-2. Eggs
-3. Onion
-4. Broccoli
-5. Avocado
-6. Pesto
-7. Red Onion
-8. Tomato
-9. Chorizo
-10. Cherry Tomatoes
-11. Spinach
-12. Mozzarella Balls
-13. Garlic
-14. Half and Half (2 cup)
-15. Parm
-16. Scallion
-17. Kewpie Mayo
-18. Sriracha
-19. Celery
-20. Bell Pepper
-21. Cajun Seasoning
-22. Chili Powder?
-23. Chicken Stock (4 cup)
-24. Oat Milk
-25. Cinnamon
-26. Bread
+2. Half and Half
+3. Oat Milk
+4. Chicken Stock? - $3.83
+5. Kewpie Mayo
+6. Sriracha
 
