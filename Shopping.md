@@ -4,21 +4,20 @@
 2. Onion
 3. Broccoli
 4. Avocado
-5. Pesto
-6. Red Onion
-7. Tomato
-8. Chorizo
-9. Cherry Tomatoes
-10. Spinach
-11. Mozzarella Balls
-12. Garlic
-13. Parm
-14. Scallion
-15. Celery
-16. Bell Pepper
-17. Cajun Seasoning
-18. Cinnamon
-19. Bread
+5. Red Onion
+6. Tomato
+7. Chorizo
+8. Cherry Tomatoes
+9. Spinach
+10. Mozzarella Balls
+11. Garlic
+12. Parm
+13. Scallion
+14. Celery
+15. Bell Pepper
+16. Cajun Seasoning
+17. Cinnamon
+18. Bread
 
 ## Online
 1. Rice Paper
@@ -27,4 +26,5 @@
 4. Chicken Stock? - $3.83
 5. Kewpie Mayo
 6. Sriracha
+7. Pesto
 
